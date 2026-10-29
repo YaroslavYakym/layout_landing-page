@@ -18,7 +18,7 @@ Follow the instructions in this and next lessons to implement the page block by 
 - **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar.
 - When done check yourself using the [CHECKLIST](./checklist.md) when finished.
 - Deploy and create a Pull Request with a [DEMO LINK](https://yaroslavyakym.github.io/layout_landing-page/).
- - [TEST REPORT LINK](https://yaroslavyakym.github.io/layout_catalog/report/html_report)
+ - [TEST REPORT LINK](https://yaroslavyakym.github.io/layout_landing-page/report/html_report)
 
 # Tips & Hints
 - Check `background-image: url()` to be relative to the `main.scss`. So should start with `../images`.
